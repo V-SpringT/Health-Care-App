@@ -7,8 +7,8 @@ import "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBYSBmyqSfHH5MosKbiAxAWPx2Wk7PgN0I",
-  authDomain: "doctor-mobile-app-ba1ef.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   databaseURL:
     "https://doctor-mobile-app-ba1ef-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "doctor-mobile-app-ba1ef",
